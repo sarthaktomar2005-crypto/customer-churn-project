@@ -1,0 +1,152 @@
+# 📊 Customer Churn Analysis Report
+
+**Role: Product Manager Perspective**
+
+---
+
+## 📌 1. Problem Statement
+
+Customer churn is a critical issue for subscription-based businesses, especially in the telecom industry. High churn rates directly impact revenue, customer lifetime value, and growth.
+
+**Objective:**
+Identify key factors driving customer churn and recommend actionable strategies to improve retention.
+
+---
+
+## 🎯 2. Business Goals
+
+* Reduce customer churn rate
+* Improve customer retention
+* Increase customer lifetime value (CLV)
+* Identify high-risk customer segments
+
+---
+
+## 📂 3. Data Overview
+
+The dataset contains customer-level information including:
+
+* Demographics (Gender, Senior Citizen)
+* Subscription details (Contract type, Internet service)
+* Billing information (Monthly Charges, Total Charges)
+* Customer behavior (Tenure, Payment Method)
+* Target variable: **Churn (Yes/No)**
+
+---
+
+## 🔍 4. Key Insights
+
+### 🔹 1. Contract Type Drives Churn
+
+* Customers with **month-to-month contracts** show the highest churn rate
+* Long-term contracts (1 year / 2 year) have significantly lower churn
+
+👉 **Insight:** Lack of commitment increases churn risk
+
+---
+
+### 🔹 2. High Monthly Charges Increase Churn
+
+* Customers paying higher monthly fees are more likely to churn
+
+👉 **Insight:** Price sensitivity is a major factor
+
+---
+
+### 🔹 3. Tenure Matters
+
+* Customers with **short tenure** churn more frequently
+* Long-term customers are more loyal
+
+👉 **Insight:** Early-stage retention is critical
+
+---
+
+### 🔹 4. Payment Method Influence
+
+* Certain payment methods (e.g., electronic check) show higher churn
+
+👉 **Insight:** Payment friction may impact retention
+
+---
+
+### 🔹 5. Demographics (Minor Impact)
+
+* Gender and senior citizen status show **less significant impact** compared to contract and pricing
+
+---
+
+## 📊 5. Dashboard Summary
+
+The Power BI dashboard provides:
+
+* KPI metrics (Total Customers, Churn Count, Churn Rate)
+* Contract-based churn analysis
+* Customer segmentation (Gender, Senior Citizen)
+* Revenue indicators (Monthly Charges)
+* Behavioral insights (Tenure, Payment Method)
+
+---
+
+## 🚀 6. Recommendations (Product Strategy)
+
+### 🔹 1. Promote Long-Term Contracts
+
+* Offer discounts for yearly plans
+* Introduce loyalty rewards
+
+---
+
+### 🔹 2. Optimize Pricing Strategy
+
+* Provide flexible pricing tiers
+* Offer bundled services
+
+---
+
+### 🔹 3. Improve Early Customer Experience
+
+* Focus on onboarding
+* Provide proactive support in first 3 months
+
+---
+
+### 🔹 4. Simplify Payment Experience
+
+* Improve payment reliability
+* Offer incentives for auto-pay
+
+---
+
+### 🔹 5. Target High-Risk Customers
+
+* Use churn prediction models
+* Send retention offers
+
+---
+
+## 📈 7. Product Impact
+
+If implemented, these strategies can:
+
+* Reduce churn rate by 10–20%
+* Increase customer retention
+* Improve long-term revenue growth
+
+---
+
+## 🧠 8. Future Scope
+
+* Build ML model for churn prediction
+* Personalize offers using customer segmentation
+* Integrate real-time analytics
+
+---
+
+## ✅ Conclusion
+
+This analysis highlights that **contract type, pricing, and tenure** are the primary drivers of churn.
+
+A data-driven product strategy focusing on **customer experience, pricing optimization, and retention campaigns** can significantly improve business outcomes.
+
+---
