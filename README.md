@@ -52,7 +52,7 @@ The goal is to identify key factors affecting customer churn and provide actiona
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/churn dashboad.png)
+![Dashboard](dashboad.png)
 
 ---
 
